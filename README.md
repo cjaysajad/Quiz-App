@@ -6,12 +6,10 @@ Create and take quizzes online.
 - Timed quizzes
 - Leaderboard
 - Results analytics
-
 ## Tech Stack
 - React
 - Node.js
 - Socket.io
 - MongoDB
-
 ## License
 MIT
