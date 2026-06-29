@@ -5,7 +5,7 @@ Create and take quizzes online.
 - Multiple choice
 - Timed quizzes
 - Leaderboard
-- Results analytics
+-  analytics
 ## Tech Stack
 - React
 - Node.js
